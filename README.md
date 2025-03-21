@@ -20,6 +20,6 @@ This project was completed during my **Data Analyst Internship at NULLCLASS**. T
 ##  Project Links  
 -  **Data set:** [Job Dataset](https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset/data)
 -  **Internship Report:** [NETLIFY](https://nullclass-project1-jobportal.netlify.app/)  
--  **Dashboard Link:** [TableauDashboard](https://public.tableau.com/views/Project_119-03-2025/Project_1_Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+-  **Dashboard Link:** [TableauDashboard](https://public.tableau.com/app/profile/ritika.kumari1463/viz/Project_119-03-2025/Project_1_Dashboard)
 
  
